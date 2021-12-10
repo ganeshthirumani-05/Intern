@@ -1,2 +1,2 @@
 # Intern
-This my first project as an Intern
+ first projects as an Intern
